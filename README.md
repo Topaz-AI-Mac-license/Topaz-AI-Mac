@@ -1,6 +1,6 @@
 ## Topaz AI Mac Ultimate License
 
-<img src="https://static.macupdate.com/products/62609/d/phpd0znty-logo.png" width="200" alt="App icon" align="left"/>
+<img src="https://img.utdstc.com/icon/c66/e97/c66e977f1849d164661369c7b23e7f537c8f6f043e014d767f899484a8df3836:200" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Topaz AI for macOS</h3>
